@@ -49,7 +49,7 @@ const DmainPg = () => {
       <div className={styles.container}>
         <div className={styles.left}>
           <div className={styles.leftHead}>
-            <h1>Pockect Notes</h1>
+            <h1>Pocket Notes</h1>
           </div>
           <LeftBody notes={notes} setRightDetails={setRightDetails} setKey={setKey} />
           <div
